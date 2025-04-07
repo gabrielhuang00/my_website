@@ -1,0 +1,8 @@
+baseURL = 'https://yourusername.github.io/'  # replace later with real GitHub Pages URL
+languageCode = 'en-us'
+title = 'Gabriel Huang'
+theme = 'PaperMod'
+
+[params]
+  ShowReadingTime = true
+  ShowToc = true
